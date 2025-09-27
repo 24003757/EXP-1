@@ -92,6 +92,26 @@ b.  KCL:
 <img width="1918" height="1132" alt="image" src="https://github.com/user-attachments/assets/531addd8-3126-468d-b262-b930c976a02f" />
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
 # KCL:
 
 <img width="1919" height="1127" alt="Screenshot 2025-09-27 182447" src="https://github.com/user-attachments/assets/59618f65-4ec3-4a2e-927b-35ed2603ef30" />
